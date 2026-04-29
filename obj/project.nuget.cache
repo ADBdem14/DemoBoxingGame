@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "YT6iqliNkso=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\davil\\OneDrive\\Documents\\Visual Studio Codes\\BoxingGame\\BoxingGame.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\davil\\.nuget\\packages\\raylib-cs\\7.0.2\\raylib-cs.7.0.2.nupkg.sha512",
+    "C:\\Users\\davil\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\10.0.6\\microsoft.netcore.app.runtime.win-x64.10.0.6.nupkg.sha512",
+    "C:\\Users\\davil\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\10.0.6\\microsoft.windowsdesktop.app.runtime.win-x64.10.0.6.nupkg.sha512",
+    "C:\\Users\\davil\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\10.0.6\\microsoft.aspnetcore.app.runtime.win-x64.10.0.6.nupkg.sha512"
+  ],
+  "logs": []
+}
